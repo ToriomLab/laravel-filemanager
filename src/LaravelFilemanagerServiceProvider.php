@@ -1,6 +1,6 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager;
+namespace ToriomLab\LaravelFilemanager;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;

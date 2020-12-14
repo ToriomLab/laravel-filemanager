@@ -1,6 +1,6 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager\Handlers;
+namespace ToriomLab\LaravelFilemanager\Handlers;
 
 class ConfigHandler
 {

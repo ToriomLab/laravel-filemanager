@@ -1,10 +1,10 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager\Middlewares;
+namespace ToriomLab\LaravelFilemanager\Middlewares;
 
 use Closure;
-use UniSharp\LaravelFilemanager\Lfm;
-use UniSharp\LaravelFilemanager\LfmPath;
+use ToriomLab\LaravelFilemanager\Lfm;
+use ToriomLab\LaravelFilemanager\LfmPath;
 
 class CreateDefaultFolder
 {
