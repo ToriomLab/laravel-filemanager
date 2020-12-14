@@ -5,9 +5,9 @@ namespace Tests;
 use Illuminate\Support\Facades\Storage;
 use Mockery as m;
 use PHPUnit\Framework\TestCase;
-use UniSharp\LaravelFilemanager\Lfm;
-use UniSharp\LaravelFilemanager\LfmPath;
-use UniSharp\LaravelFilemanager\LfmStorageRepository;
+use ToriomLab\LaravelFilemanager\Lfm;
+use ToriomLab\LaravelFilemanager\LfmPath;
+use ToriomLab\LaravelFilemanager\LfmStorageRepository;
 
 class LfmStorageRepositoryTest extends TestCase
 {
